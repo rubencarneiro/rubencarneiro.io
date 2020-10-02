@@ -1,15 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Ubuntu touch device Bootlogos"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2020-10-02 21:58
+tag: Ubuntu Touch Logos
+image: assets/images/ubuntutouchlogos/ubuntu_touch.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Making bootlogo to varius devices to use on Ubuntu touch devices."
 category: project
-author: johndoe
+author: rubencarneiro
 externalLink: false
 ---
 
@@ -19,7 +19,7 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergioko
 
 ---
 
-What has inside?
+Whats devices are supported?
 
 - Gulp
 - BrowserSync
