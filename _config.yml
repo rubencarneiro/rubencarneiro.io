@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://google.com/rubencarneiro
 
 url: https://rubencarneiro.github.io/rubencarneiro.io/
 # your url: https://USERNAME.github.io
@@ -60,6 +60,7 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: rubenlcarneiro
+    youtube: https://www.youtube.com/channel/UCcTCccwJAj-hKKtds3O975w
 
 
 # do you want a larger site? change the option below
@@ -79,7 +80,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
