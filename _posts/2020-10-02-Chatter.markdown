@@ -1,20 +1,19 @@
 ---
-title: "Chatter Chat on Internet Relay Chat (IRC) networks"
+title: "Ubuntu Touch Custom Device Bootlogos"
 layout: post
-date: 2020-10-03 00:38
-tag: Ubuntu Touch APP
-logo: assets/images/chatter/32.png?raw=true
-![image] (assets/images/chatter/32.png)
+date: 2020-10-02 21:58
+tag: Ubuntu Logos
+image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Chat on Internet Relay Chat (IRC) networks devices."
+description: "Making bootlogo to varius devices to use on Ubuntu touch devices."
 category: project
 author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](https://gitlab.com/rubencarneiro/chatter/blob/master/chatter.png?raw=true)
+![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)
 
 ---
 What are bootlogos?
