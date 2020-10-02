@@ -18,10 +18,8 @@ externalLink: false
 ---
 
 Whats devices are supported?
----
-- Nexus 5
-<img src="assets/devices/nexus5/Nexus5.png"
---- 
+
+- Nexus 5 ![Nexus 5](https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png "Nexus 5")
 - Nexus 6P
 - Fairphone 2
 - BQ Aquaris M10
