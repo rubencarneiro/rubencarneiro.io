@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [blog, project, Donate] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -39,7 +39,7 @@ twitter: rubenlcarneiro
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: rubencarneiro
+youtube: https://www.youtube.com/channel/UCcTCccwJAj-hKKtds3O975w
 # spotify: myspotify
 github: rubencarneiro
 gitlab: rubencarneiro
@@ -60,8 +60,6 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: rubenlcarneiro
-    youtube: https://www.youtube.com/channel/UCcTCccwJAj-hKKtds3O975w
-
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
