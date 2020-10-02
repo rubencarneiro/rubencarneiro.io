@@ -20,7 +20,7 @@ externalLink: false
 Whats devices are supported?
 ---
 - Nexus 5
-image: assets/devices/nexus5/Nexus5.png
+<img src="assets/devices/nexus5/Nexus5.png"
 --- 
 - Nexus 6P
 - Fairphone 2
