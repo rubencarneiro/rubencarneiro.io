@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-02T23:27:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rúben Carneiro</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Ubuntu touch device Bootlogos</title><link href="http://localhost:4000/Ubuntu-touch-device-Bootlogos/" rel="alternate" type="text/html" title="Ubuntu touch device Bootlogos" /><published>2020-10-02T21:58:00+01:00</published><updated>2020-10-02T21:58:00+01:00</updated><id>http://localhost:4000/Ubuntu-touch-device-Bootlogos</id><content type="html" xml:base="http://localhost:4000/Ubuntu-touch-device-Bootlogos/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-02T23:56:23+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rúben Carneiro</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Ubuntu touch device Bootlogos</title><link href="http://localhost:4000/Ubuntu-touch-device-Bootlogos/" rel="alternate" type="text/html" title="Ubuntu touch device Bootlogos" /><published>2020-10-02T21:58:00+01:00</published><updated>2020-10-02T21:58:00+01:00</updated><id>http://localhost:4000/Ubuntu-touch-device-Bootlogos</id><content type="html" xml:base="http://localhost:4000/Ubuntu-touch-device-Bootlogos/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Whats devices are supported?&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Nexus 5&lt;/li&gt;
+  &lt;li&gt;Nexus 5 &lt;img src=&quot;https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png&quot; alt=&quot;Nexus 5&quot; title=&quot;Nexus 5&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Nexus 6P&lt;/li&gt;
   &lt;li&gt;Fairphone 2&lt;/li&gt;
   &lt;li&gt;BQ Aquaris M10&lt;/li&gt;
