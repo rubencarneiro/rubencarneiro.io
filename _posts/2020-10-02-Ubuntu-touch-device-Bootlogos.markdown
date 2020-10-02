@@ -13,7 +13,7 @@ author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](assets/screenshots/ubuntu_touch.jpg)
+![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg)
 
 ---
 
