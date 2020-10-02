@@ -1,6 +1,6 @@
 # main text of home
 name: Rúben Carneiro
-bio: A Man who travels the world eating noodles
+bio: Just love tech, most of all Linux!
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,11 +56,11 @@ paypal: rubencarneiro
 authors:
   rubencarneiro:
     name: Rúben Carneiro
-    bio: A Man who travels the world eating noodles
+    bio: Just love tech, most of all Linux!
     external-image: false
     picture: assets/images/profile.jpg
     twitter: rubenlcarneiro
-    
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -3,7 +3,7 @@ title: "Ubuntu touch device Bootlogos"
 layout: post
 date: 2020-10-02 21:58
 tag: Ubuntu Touch Logos
-image: assets/images/ubuntutouchlogos/ubuntu_touch.jpg
+image: assets/images/ubuntutouchboot/ubuntu_touch.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +13,7 @@ author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](/assests/screenshots/ubuntu_touch.jpg)
+![Screenshot](/assets/screenshots/ubuntu_touch.jpg)
 
 ---
 
@@ -28,3 +28,4 @@ Whats devices are supported?
 - OnePlus One
 - OnePlus One 3/3T
 - Volla Phone
+
