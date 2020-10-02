@@ -13,7 +13,7 @@ author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](/assets/screenshots/ubuntu_touch.jpg)
+![Screenshot](assets/screenshots/ubuntu_touch.jpg)
 
 ---
 
