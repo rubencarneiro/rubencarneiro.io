@@ -3,7 +3,7 @@ title: "Ubuntu touch device Bootlogos"
 layout: post
 date: 2020-10-02 21:58
 tag: Ubuntu Touch Logos
-image: "assets/images/ubuntuboot/ubuntu_touch.jpg"
+image: https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
