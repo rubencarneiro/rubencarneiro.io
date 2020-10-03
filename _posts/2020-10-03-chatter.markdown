@@ -15,11 +15,12 @@ externalLink: false
 
 Screenshot 1         |  Screenshot 2
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true)
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter2.jpg?raw=true)
 
 
----
-Avaible to download at:
----
+Download :
+=========
+
+
 <a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 
