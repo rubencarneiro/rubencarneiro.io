@@ -21,5 +21,5 @@ Screenshot 1         |  Screenshot 2
 ---
 Avaible to download at:
 ---
-[<img src="https://open-store.io/badges/en_US.svg">](https://open-store.io/app/chatter.ruben-carneiro)
+<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 

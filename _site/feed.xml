@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-03T01:10:34+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rúben Carneiro</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Chatter Chat on Internet Relay Chat (IRC) networks</title><link href="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos/" rel="alternate" type="text/html" title="Chatter Chat on Internet Relay Chat (IRC) networks" /><published>2020-10-03T00:38:00+01:00</published><updated>2020-10-03T00:38:00+01:00</updated><id>http://localhost:4000/Ubuntu-Touch-Device-Bootlogos</id><content type="html" xml:base="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos/">&lt;p&gt;&lt;img src=&quot;https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png?raw=true&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-03T01:24:32+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rúben Carneiro</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Chatter Chat on Internet Relay Chat (IRC) networks</title><link href="http://localhost:4000/chatter/" rel="alternate" type="text/html" title="Chatter Chat on Internet Relay Chat (IRC) networks" /><published>2020-10-03T00:38:00+01:00</published><updated>2020-10-03T00:38:00+01:00</updated><id>http://localhost:4000/chatter</id><content type="html" xml:base="http://localhost:4000/chatter/">&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Screenshot 1&lt;/th&gt;
@@ -16,23 +14,8 @@
 &lt;/table&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;What are bootlogos?
-—
-Bootlogos that bright vendor logo that sometimes almost blind you in the dark, yeah that thing.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nexus 5&lt;/li&gt;
-  &lt;li&gt;Fairphone 2&lt;/li&gt;
-  &lt;li&gt;BQ Aquaris M10 FHD&lt;/li&gt;
-  &lt;li&gt;BQ Aquaris M10 HD&lt;/li&gt;
-  &lt;li&gt;Meizu MX4&lt;/li&gt;
-  &lt;li&gt;BQ E4.5&lt;/li&gt;
-  &lt;li&gt;BQ E5&lt;/li&gt;
-  &lt;li&gt;BQ U Plus&lt;/li&gt;
-  &lt;li&gt;OnePlus One&lt;/li&gt;
-  &lt;li&gt;OnePlus One 3/3T&lt;/li&gt;
-  &lt;li&gt;Volla Phone&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Ubuntu Touch APP" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ubuntu Touch Custom Device Bootlogos</title><link href="http://localhost:4000/Chatter/" rel="alternate" type="text/html" title="Ubuntu Touch Custom Device Bootlogos" /><published>2020-10-02T21:58:00+01:00</published><updated>2020-10-02T21:58:00+01:00</updated><id>http://localhost:4000/Chatter</id><content type="html" xml:base="http://localhost:4000/Chatter/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Avaible to download at:
+—&lt;/p&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Ubuntu Touch APP" /><summary type="html">Screenshot 1 Screenshot 2</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ubuntu Touch Custom Device Bootlogos</title><link href="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown/" rel="alternate" type="text/html" title="Ubuntu Touch Custom Device Bootlogos" /><published>2020-10-02T21:58:00+01:00</published><updated>2020-10-02T21:58:00+01:00</updated><id>http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown</id><content type="html" xml:base="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;What are bootlogos?
