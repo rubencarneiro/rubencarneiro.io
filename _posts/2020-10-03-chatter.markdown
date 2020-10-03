@@ -4,7 +4,7 @@ layout: post
 date: 2020-10-03 00:38
 tag: Ubuntu Touch APP
 image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Chat on Internet Relay Chat (IRC) networks devices."
@@ -12,6 +12,15 @@ category: project
 author: rubencarneiro
 externalLink: false
 ---
+
+<p align="center">
+  <img width="200" height="200" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true">
+</p>
+&nbsp;
+
+
+
+
 
 Screenshot 1         |  Screenshot 2
 :-------------------------:|:-------------------------:
