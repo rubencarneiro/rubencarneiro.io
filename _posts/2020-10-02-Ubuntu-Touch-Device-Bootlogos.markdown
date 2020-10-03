@@ -3,9 +3,8 @@ title: "Chatter Chat on Internet Relay Chat (IRC) networks"
 layout: post
 date: 2020-10-03 00:38
 tag: Ubuntu Touch APP
-logo: assets/images/chatter/32.png?raw=true
-![image] (assets/images/chatter/32.png)
-headerImage: false
+image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Chat on Internet Relay Chat (IRC) networks devices."
@@ -14,22 +13,13 @@ author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](https://gitlab.com/rubencarneiro/chatter/blob/master/chatter.png?raw=true)
+Screenshot 1         |  Screenshot 2
+:-------------------------:|:-------------------------:
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true)
+
 
 ---
-What are bootlogos?
+Avaible to download at:
 ---
-Bootlogos that bright vendor logo that sometimes almost blind you in the dark, yeah that thing.
-
-- Nexus 5 
-- Fairphone 2
-- BQ Aquaris M10 FHD
-- BQ Aquaris M10 HD
-- Meizu MX4
-- BQ E4.5
-- BQ E5
-- BQ U Plus
-- OnePlus One
-- OnePlus One 3/3T
-- Volla Phone
+[<img src="https://open-store.io/badges/en_US.svg">](https://open-store.io/app/chatter.ruben-carneiro)
 
