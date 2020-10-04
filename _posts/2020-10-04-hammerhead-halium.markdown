@@ -18,3 +18,30 @@ externalLink: false
   <img width="300" height="100" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/halium/halium.png?raw=true">
 </p>
 
+---
+Based on Halium 7.1
+---
+
+#What works?
+- [X] Booth image and system image build successfully
+- [X] Device boots into rootfs
+- [X] LXC container starts and does not crash
+- [X] libhybris tests
+- [X] Wifi
+- [X] Bluetooth
+- [X] Flash Light
+- [X] Vibration
+- [X] WIDI
+- [X] Audio
+- [X] Audio on Calls
+- [X] Audio on Headphones
+- [X] Audio on Hanset/ Loudspeaker
+- [X] Camera Pictures
+- [ ] Camera Video Recording - Does not work
+- [X] Video Decode
+- [X] Light/Proximity
+- [X] Notidication LEDS
+- [X] Rotation
+- [X] RNDIS
+- [X] GPS
+- [X] MPT
