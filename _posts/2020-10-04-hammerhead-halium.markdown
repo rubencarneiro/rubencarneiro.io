@@ -12,6 +12,9 @@ category: project
 author: rubencarneiro
 externalLink: false
 ---
-![Screenshot](https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png?raw=true)
+![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/Nexus5.png?raw=true)
 
+<p align="center">
+  <img width="200" height="200" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/halium/halium.png?raw=true">
+</p>
 
