@@ -32,3 +32,6 @@ Bootlogos that bright vendor logo that sometimes almost blind you in the dark, y
 - OnePlus One 3/3T
 - Volla Phone
 
+# <center>Donate<center>
+<center><table border="0" cellpadding="10" cellspacing="0"
+align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="https://paypal.me/rubencarneiro?locale.x=pt_PT" title="PayPal" onclick="javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo" /></a></td></tr></tbody></table>
