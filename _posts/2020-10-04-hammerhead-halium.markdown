@@ -50,11 +50,21 @@ Screenshot 1         |  Screenshot 2
 - [X] Camera Pictures
 - [ ] Camera Video Recording - Does not work
 - [X] Video Decode
-- [X] Light/Proximity
-- [X] Notidication LEDS
-- [X] Rotation
 - [X] RNDIS
 - [X] GPS
 - [X] MPT
   
-  
+  &nbsp;
+
+- You can find the project on my github:https://github.com/rubencarneiro/android_device_lge_hammerhead
+
+# Releases for test
+
+- Here: https://github.com/rubencarneiro/android_device_lge_hammerhead/releases
+
+As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
+Also follow my channel on youtube a give a like they are oly a few videos but maybe i can make more in time.
+
+# <center>Donate<center>
+<center><table border="0" cellpadding="10" cellspacing="0"
+align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="https://paypal.me/rubencarneiro?locale.x=pt_PT" title="PayPal" onclick="javascript:window.open('https://www.paypal.com/pt/webapps/mpp/home','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo" /></a></td></tr></tbody></table>
