@@ -12,7 +12,7 @@ category: project
 author: rubencarneiro
 externalLink: false
 ---
-![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/Nexus5.png?raw=true)
+![Hammerhead](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/Nexus5.png?raw=true)
 
 <p align="center">
   <img width="300" height="100" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/halium/halium.png?raw=true">
@@ -22,7 +22,7 @@ externalLink: false
 Based on Halium 7.1
 ---
 
-#What works?
+# What works?
 - [X] Booth image and system image build successfully
 - [X] Device boots into rootfs
 - [X] LXC container starts and does not crash
@@ -45,3 +45,5 @@ Based on Halium 7.1
 - [X] RNDIS
 - [X] GPS
 - [X] MPT
+  
+  
