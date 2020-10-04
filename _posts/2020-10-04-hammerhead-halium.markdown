@@ -2,7 +2,7 @@
 title: "Nexus 5 (Hammerhead) Halium 7.1 Port Ubuntu Touch"
 layout: post
 date: 2020-10-04 16:50
-tag: U
+tag: Halium Port
 image: (https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png?raw=true)
 headerImage: false
 projects: true
@@ -12,6 +12,6 @@ category: project
 author: rubencarneiro
 externalLink: false
 ---
+![Screenshot](https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png?raw=true)
 
-<a href="https://github.com/rubencarneiro/android_device_lge_hammerhead" rel="some text">![Foo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)</a>
 
