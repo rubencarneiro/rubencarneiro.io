@@ -1,0 +1,31 @@
+---
+title: "Nexus 5 (Hammerhead) Halium 7.1 Port Ubuntu Touch"
+layout: post
+date: 2020-10-04 16:50
+tag: Ubuntu Touch APP
+image: (https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png?raw=true)
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Nexus 5 Halium 7.1 Port for Ubuntu Touch"
+category: project
+author: rubencarneiro
+externalLink: false
+---
+
+<p align="center">
+  <img width="200" height="200" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200">?raw=true">
+</p>
+&nbsp;
+
+
+
+
+
+Screenshot 1         |  Screenshot 2
+:-------------------------:|:-------------------------:
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter2.jpg?raw=true)
+
+
+<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
+
