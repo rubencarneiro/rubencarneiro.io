@@ -22,10 +22,11 @@ externalLink: false
 Screenshot 1         |  Screenshot 2
 :-------------------------:|:-------------------------:
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/screenshot1.png?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/screenshot2.png?raw=true)
+
 &nbsp;
----
-Based on Halium 7.1
----
+
+# Based on Halium 7.1
+
 
 # What works?
 - [X] Booth image and system image build successfully
