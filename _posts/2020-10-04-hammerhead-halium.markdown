@@ -17,7 +17,10 @@ externalLink: false
 <p align="center">
   <img width="300" height="100" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/halium/halium.png?raw=true">
 </p>
+
 &nbsp;
+
+# Video Playback 1080p
 
 Screenshot 1         |  Screenshot 2
 :-------------------------:|:-------------------------:
@@ -25,6 +28,8 @@ Screenshot 1         |  Screenshot 2
 
 &nbsp;
 
+# Video Playback 1080p
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UC6cGoIIj8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # Based on Halium 7.1
 
 
