@@ -20,6 +20,10 @@ What are bootlogos?
 ---
 Bootlogos that bright vendor logo that sometimes almost blind you in the dark, yeah that thing.
 
+OnePlus One         |  OnePlus One 3/3T
+:-------------------------:|:-------------------------:
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplusone.png?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus3.png?raw=true)
+
 - Nexus 5 
 - Fairphone 2
 - BQ Aquaris M10 FHD
