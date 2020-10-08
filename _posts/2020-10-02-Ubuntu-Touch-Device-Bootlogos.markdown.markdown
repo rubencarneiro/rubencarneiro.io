@@ -24,6 +24,11 @@ OnePlus One         |  OnePlus One 3/3T
 :-------------------------:|:-------------------------:
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplusone.png?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus3.png?raw=true)
 
+Nexus 5        |  Fairphone 2
+:-------------------------:|:-------------------------:
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Nexus-5.png?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/fairphone2.png?raw=true)
+
+
 - Nexus 5 
 - Fairphone 2
 - BQ Aquaris M10 FHD
