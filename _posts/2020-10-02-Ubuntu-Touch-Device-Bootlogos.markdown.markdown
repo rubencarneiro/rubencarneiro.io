@@ -22,7 +22,7 @@ Bootlogos that bright vendor logo that sometimes almost blind you in the dark, y
 
 ---
 This Logos has design contributed by **Kaizen** 
-<a href="https://twitter.com/Kaizen_Kaizi">Kaizen/a>
+<a href="https://twitter.com/Kaizen_Kaizi">Kaizen</a>
 ---
 
 OnePlus One         |  OnePlus One 3/3T
