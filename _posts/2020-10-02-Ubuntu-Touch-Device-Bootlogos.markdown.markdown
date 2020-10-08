@@ -43,22 +43,101 @@ Meizu MX4        |  Volla Phone
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/meizumx4.jpg?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/volla.jpg?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 
 
-- Nexus 5 
-- Fairphone 2
-- BQ Aquaris M10 FHD
-- BQ Aquaris M10 HD
-- Meizu MX4
-- BQ E4.5
-- BQ E5
-- BQ U Plus
-- OnePlus One
-- OnePlus One 3/3T
-- Volla Phone
+Nexus 5
+=======
+**How to flash**:
 
----
-Where can i Download?
----
-- It be avaible very soon™ ;)
+- Reboot device to fastboot
+- `fastboot flash imgdata imgdata.img`
+
+
+Fairphone 2
+===========
+**How to flash**:
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash splash splash.img`
+
+
+Meizu MX4
+=========
+**How to flash**:
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+
+BQ E4.5
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+
+BQ E5
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+
+BQ M10HD
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+
+BQ M10FHD
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal and do:
+- `fastboot flash logo logo.bin`
+
+
+OnePlus One
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal do:
+- `fastboot flash LOGO logo.bin`
+
+OnePlus One 3/3T
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal do:
+- `fastboot flash LOGO logo.bin`
+- for some reason some people are unable to flash trough fastboot "FAILED (remote: Partition flashing is not allowed)"
+- Use the update-zip and flash trough recovery: https://drive.google.com/file/d/1MBA7yJREcnQ_Pg8D3_cY_VNry-L4_aSc/view
+
+Volla Phone
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal do:
+- `fastboot flash logo logo.bin`
+
+Bq Aquaris U Plus
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal do:
+- `fastboot flash splash splash.img`
 
 As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
 Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.
