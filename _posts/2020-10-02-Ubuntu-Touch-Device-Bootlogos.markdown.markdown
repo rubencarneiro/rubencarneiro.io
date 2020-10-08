@@ -21,7 +21,7 @@ What are bootlogos?
 Bootlogos that bright vendor logo that sometimes almost blind you in the dark, yeah that thing.
 
 ---
-This Logos has design contributed by Kaizen https://twitter.com/Kaizen_Kaizi
+This Logos has design contributed by Kaizen <link=https://twitter.com/Kaizen_Kaizi>
 ---
 
 OnePlus One         |  OnePlus One 3/3T
@@ -140,8 +140,8 @@ Bq Aquaris U Plus
 - In a terminal do:
 - `fastboot flash splash splash.img`
 
-As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
-Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.
+# As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
+# Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.
 
 # <center>Donate<center>
 <center><table border="0" cellpadding="10" cellspacing="0"
