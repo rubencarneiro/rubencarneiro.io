@@ -27,7 +27,7 @@ OnePlus One         |  OnePlus One 3/3T
 
 Nexus 5        |  Fairphone 2
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Nexus-5.png?raw=true)  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/fairphone2.png?raw=true)
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Nexus-5.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/fairphone2.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 
 
 - Nexus 5 
