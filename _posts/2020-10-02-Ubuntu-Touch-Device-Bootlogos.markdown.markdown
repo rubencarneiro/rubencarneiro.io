@@ -25,9 +25,10 @@ OnePlus One         |  OnePlus One 3/3T
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplusone.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus3.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 
 
-Nexus 5        |  Fairphone 2
+
+Bq E4.5        |  BQ E5
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Nexus-5.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/fairphone2.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bq-e4.5.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqe5.jpg?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 
 
 - Nexus 5 
