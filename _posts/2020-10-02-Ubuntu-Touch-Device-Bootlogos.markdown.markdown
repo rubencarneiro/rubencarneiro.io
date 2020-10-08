@@ -33,6 +33,10 @@ Bq E5        |  BQ E4.5
 :-------------------------:|:-------------------------:
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqe5.jpg?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqe45.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
 
+BQ M10HD        |  BQ M10FHD
+:-------------------------:|:-------------------------:
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqm10.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqm10fhd.png?raw=true)<a href="https://open-store.io/app/chatter.ruben-carneiro" rel="some text">![Foo](https://open-store.io/badges/en_US.png)</a>
+
 
 - Nexus 5 
 - Fairphone 2
