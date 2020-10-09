@@ -3,7 +3,7 @@ title: "Ubuntu Touch Custom Device Bootlogos"
 layout: post
 date: 2020-10-09 01:02
 tag: Ubuntu Logos
-image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)
+image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/brand/bootlogobrand.png?raw=true)
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +13,7 @@ author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)
+![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/brand/bootlogobrand.png?raw=true)
 
 ---
 What are bootlogos?
