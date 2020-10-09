@@ -45,7 +45,7 @@ BQ M10HD        |  BQ M10FHD
 
 Meizu MX4        |  Volla Phone
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/meizumx4.jpg?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/mx4/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/volla.jpg?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/meizumx4.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/mx4/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/volla.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
 
 Nexus 5
