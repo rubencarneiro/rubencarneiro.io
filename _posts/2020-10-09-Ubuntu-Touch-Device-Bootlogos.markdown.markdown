@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Touch Custom Device Bootlogos"
 layout: post
-date: 2020-10-02 21:58
+date: 2020-10-09 01:02
 tag: Ubuntu Logos
 image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)
 headerImage: false
