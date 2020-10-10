@@ -1,4 +1,309 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-03T01:24:32+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rúben Carneiro</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Chatter Chat on Internet Relay Chat (IRC) networks</title><link href="http://localhost:4000/chatter/" rel="alternate" type="text/html" title="Chatter Chat on Internet Relay Chat (IRC) networks" /><published>2020-10-03T00:38:00+01:00</published><updated>2020-10-03T00:38:00+01:00</updated><id>http://localhost:4000/chatter</id><content type="html" xml:base="http://localhost:4000/chatter/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-09T23:28:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rúben Carneiro</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Ubuntu Touch Custom Device Bootlogos</title><link href="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown/" rel="alternate" type="text/html" title="Ubuntu Touch Custom Device Bootlogos" /><published>2020-10-09T01:02:00+01:00</published><updated>2020-10-09T01:02:00+01:00</updated><id>http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown</id><content type="html" xml:base="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/brand/bootlogobrand.png?raw=true&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;What are bootlogos?
+—
+Bootlogos that bright vendor logo that sometimes almost blind you in the dark, yeah that thing.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;This Logos has design contributed by &lt;strong&gt;Kaizen&lt;/strong&gt; 
+&lt;a href=&quot;https://twitter.com/Kaizen_Kaizi&quot;&gt;Kaizen&lt;/a&gt;
+—&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;OnePlus One&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;OnePlus One 3/3T&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplusone.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/opo/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus3.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/opo3t/recovery.zip?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Nexus 5&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Fairphone 2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Nexus-5.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/nexus5/imgdata.img?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/fairphone2.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/fairphone2/splash.img?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bq E5&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;BQ E4.5&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqe5.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/bqe5/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqe45.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/bqe45/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;BQ M10HD&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;BQ M10FHD&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqm10.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/bqm10hd/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/bqm10fhd.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/bqm10fhd/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Meizu MX4&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Volla Phone&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/meizumx4.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/mx4/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/volla.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;a href=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/logo.bin?raw=true&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;nexus-5&quot;&gt;Nexus 5&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash imgdata imgdata.img&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;fairphone-2&quot;&gt;Fairphone 2&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal and do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash splash splash.img&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;meizu-mx4&quot;&gt;Meizu MX4&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal and do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash logo logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bq-e45&quot;&gt;BQ E4.5&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal and do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash logo logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bq-e5&quot;&gt;BQ E5&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal and do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash logo logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bq-m10hd&quot;&gt;BQ M10HD&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal and do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash logo logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bq-m10fhd&quot;&gt;BQ M10FHD&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal and do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash logo logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;oneplus-one&quot;&gt;OnePlus One&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash LOGO logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;oneplus-one-33t&quot;&gt;OnePlus One 3/3T&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;Use the recovery.zip and flash trough recovery&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;volla-phone&quot;&gt;Volla Phone&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash logo logo.bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bq-aquaris-u-plus&quot;&gt;Bq Aquaris U Plus&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;How to flash&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reboot device to fastboot&lt;/li&gt;
+  &lt;li&gt;In a terminal do:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash splash splash.img&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.&lt;/strong&gt;
+&lt;strong&gt;Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;donate&quot;&gt;&lt;center&gt;Donate&lt;center&gt;&lt;/center&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://paypal.me/rubencarneiro?locale.x=pt_PT&quot; title=&quot;PayPal&quot; onclick=&quot;javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;&quot;&gt;&lt;img src=&quot;https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png&quot; border=&quot;0&quot; alt=&quot;PayPal Logo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/center&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Ubuntu Logos" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/brand/bootlogobrand.png?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/brand/bootlogobrand.png?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Taking of from Legacy Meizu Pro 5</title><link href="http://localhost:4000/Meizu-Pro5/" rel="alternate" type="text/html" title="Taking of from Legacy Meizu Pro 5" /><published>2020-10-05T22:08:00+01:00</published><updated>2020-10-05T22:08:00+01:00</updated><id>http://localhost:4000/Meizu-Pro5</id><content type="html" xml:base="http://localhost:4000/Meizu-Pro5/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/meizupro5/meizupro5.jpg?raw=true&quot; alt=&quot;Pro5&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;300&quot; height=&quot;100&quot; src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/halium/halium.png?raw=true&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The goal is making the device take advantage of halium and arm64&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-works--well-at-this-time-nothing&quot;&gt;What works , well at this time nothing.&lt;/h1&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Booth image and system image build successfully&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Device boots into rootfs its hard to boot a second time&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;LXC container starts and does not crash&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;libhybris tests&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Wifi&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Bluetooth&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Flash Light&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Vibration&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;WIDI&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Audio&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Audio on Calls&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Audio on Headphones&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Camera Pictures&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Camera Video Recording - Does not work&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Video Decode&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Light/Proximity&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Notidication LEDS&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Rotation&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;RNDIS&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;GPS&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;MPT -Not Fully working&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
+Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.&lt;/p&gt;
+
+&lt;h1 id=&quot;donate&quot;&gt;&lt;center&gt;Donate&lt;center&gt;&lt;/center&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://paypal.me/rubencarneiro?locale.x=pt_PT&quot; title=&quot;PayPal&quot; onclick=&quot;javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;&quot;&gt;&lt;img src=&quot;https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png&quot; border=&quot;0&quot; alt=&quot;PayPal Logo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/center&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Porting" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Nexus 5 (Hammerhead) Halium 7.1 Port Ubuntu Touch</title><link href="http://localhost:4000/hammerhead-halium/" rel="alternate" type="text/html" title="Nexus 5 (Hammerhead) Halium 7.1 Port Ubuntu Touch" /><published>2020-10-04T16:50:00+01:00</published><updated>2020-10-04T16:50:00+01:00</updated><id>http://localhost:4000/hammerhead-halium</id><content type="html" xml:base="http://localhost:4000/hammerhead-halium/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/Nexus5.png?raw=true&quot; alt=&quot;Hammerhead&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;300&quot; height=&quot;100&quot; src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/halium/halium.png?raw=true&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h1 id=&quot;video-playback-1080p&quot;&gt;Video Playback 1080p&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Screenshot 1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Screenshot 2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/screenshot1.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/nexus5/screenshot2.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h1 id=&quot;video-playback-1080p-1&quot;&gt;Video Playback 1080p&lt;/h1&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UC6cGoIIj8o&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;h1 id=&quot;based-on-halium-71&quot;&gt;Based on Halium 7.1&lt;/h1&gt;
+
+&lt;h1 id=&quot;what-works&quot;&gt;What works?&lt;/h1&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Booth image and system image build successfully&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Device boots into rootfs&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;LXC container starts and does not crash&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;libhybris tests&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Wifi&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Bluetooth&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Flash Light&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Vibration&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;WIDI&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Audio&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Audio on Calls&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Audio on Headphones&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Audio on Hanset/ Loudspeaker&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Camera Pictures&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Camera Video Recording - Does not work&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Video Decode&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;RNDIS&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;GPS&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;MPT&lt;/p&gt;
+
+    &lt;p&gt; &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;You can find the project on my github:https://github.com/rubencarneiro/android_device_lge_hammerhead&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;releases-for-test&quot;&gt;Releases for test&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Here: https://github.com/rubencarneiro/android_device_lge_hammerhead/releases&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
+Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.&lt;/p&gt;
+
+&lt;h1 id=&quot;donate&quot;&gt;&lt;center&gt;Donate&lt;center&gt;&lt;/center&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://paypal.me/rubencarneiro?locale.x=pt_PT&quot; title=&quot;PayPal&quot; onclick=&quot;javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;&quot;&gt;&lt;img src=&quot;https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png&quot; border=&quot;0&quot; alt=&quot;PayPal Logo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/center&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Halium Port" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/devices_images/blob/master/Nexus5.png?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chatter Chat on Internet Relay Chat (IRC) networks</title><link href="http://localhost:4000/chatter/" rel="alternate" type="text/html" title="Chatter Chat on Internet Relay Chat (IRC) networks" /><published>2020-10-03T00:38:00+01:00</published><updated>2020-10-03T00:38:00+01:00</updated><id>http://localhost:4000/chatter</id><content type="html" xml:base="http://localhost:4000/chatter/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;200&quot; height=&quot;200&quot; src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Screenshot 1&lt;/th&gt;
@@ -8,30 +313,19 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter1.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/chatter2.jpg?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;hr /&gt;
-&lt;p&gt;Avaible to download at:
-—&lt;/p&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Ubuntu Touch APP" /><summary type="html">Screenshot 1 Screenshot 2</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ubuntu Touch Custom Device Bootlogos</title><link href="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown/" rel="alternate" type="text/html" title="Ubuntu Touch Custom Device Bootlogos" /><published>2020-10-02T21:58:00+01:00</published><updated>2020-10-02T21:58:00+01:00</updated><id>http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown</id><content type="html" xml:base="http://localhost:4000/Ubuntu-Touch-Device-Bootlogos.markdown/">&lt;p&gt;&lt;img src=&quot;https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;What are bootlogos?
-—
-Bootlogos that bright vendor logo that sometimes almost blind you in the dark, yeah that thing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open-store.io/app/chatter.ruben-carneiro&quot; rel=&quot;some text&quot;&gt;&lt;img src=&quot;https://open-store.io/badges/en_US.png&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Nexus 5&lt;/li&gt;
-  &lt;li&gt;Fairphone 2&lt;/li&gt;
-  &lt;li&gt;BQ Aquaris M10 FHD&lt;/li&gt;
-  &lt;li&gt;BQ Aquaris M10 HD&lt;/li&gt;
-  &lt;li&gt;Meizu MX4&lt;/li&gt;
-  &lt;li&gt;BQ E4.5&lt;/li&gt;
-  &lt;li&gt;BQ E5&lt;/li&gt;
-  &lt;li&gt;BQ U Plus&lt;/li&gt;
-  &lt;li&gt;OnePlus One&lt;/li&gt;
-  &lt;li&gt;OnePlus One 3/3T&lt;/li&gt;
-  &lt;li&gt;Volla Phone&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Ubuntu Logos" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/screenshots/ubuntu_touch.jpg?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+  &lt;li&gt;Thanks to all translators and developers&lt;/li&gt;
+  &lt;li&gt;Source code avaible on : https://gitlab.com/rubencarneiro/chatter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;donate&quot;&gt;&lt;center&gt;Donate&lt;center&gt;&lt;/center&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://paypal.me/rubencarneiro?locale.x=pt_PT&quot; title=&quot;PayPal&quot; onclick=&quot;javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;&quot;&gt;&lt;img src=&quot;https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png&quot; border=&quot;0&quot; alt=&quot;PayPal Logo&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/center&gt;</content><author><name>rubencarneiro</name></author><category term="project" /><category term="Ubuntu Touch APP" /><summary type="html"> </summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" /><media:content medium="image" url="(https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/chatter/32.png?raw=true)" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
