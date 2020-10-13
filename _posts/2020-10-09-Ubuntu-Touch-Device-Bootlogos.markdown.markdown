@@ -153,7 +153,7 @@ Xiaomi Redmi 4X
 - In a terminal do:
 - `fastboot flash splash splash.img`
 
-Xiaomi MiA2
+Xiaomi Mi A2
 =========
 **How to flash**
 
