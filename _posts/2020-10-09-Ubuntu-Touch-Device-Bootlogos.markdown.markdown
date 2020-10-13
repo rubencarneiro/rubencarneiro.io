@@ -161,7 +161,7 @@ Xiaomi Mi A2
 - In a terminal do:
 - `fastboot flash splash splash.img`
 
-You can report issues at: https://github.com/rubencarneiro/rubencarneiro.io/issues
+You can report issues at: <link>"https://github.com/rubencarneiro/rubencarneiro.io/issues"</link>
 
 **As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.**
 **Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.**
