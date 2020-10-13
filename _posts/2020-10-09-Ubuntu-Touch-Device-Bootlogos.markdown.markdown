@@ -162,7 +162,7 @@ Xiaomi Mi A2
 - `fastboot flash splash splash.img`
 
 You can report issues at: 
-<a href="https://github.com/rubencarneiro/rubencarneiro.io/issues">Github</a>
+ <a href="https://github.com/rubencarneiro/rubencarneiro.io/issues">Github</a> 
 
 **As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.**
 **Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.**
