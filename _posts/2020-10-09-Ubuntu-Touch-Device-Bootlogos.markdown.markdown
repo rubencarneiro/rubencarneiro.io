@@ -49,7 +49,7 @@ This Logos has design contributed by **Kaizen**
 
 OnePlus One         |  OnePlus One 3/3T
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplusone.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/opo/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus3.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/opo3t/recovery.zip?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplusone.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/opo/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus3.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/opo3t/splash.zip?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
 
 Nexus 5        |  Fairphone 2
