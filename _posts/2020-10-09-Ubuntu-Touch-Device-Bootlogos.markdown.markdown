@@ -148,7 +148,7 @@ OnePlus One 3/3T
 =========
 **How to flash**
 
-- Reboot device to fastboot
+- Use Teamwin recovery
 - Use the recovery.zip and flash trough recovery
 
 Volla Phone
