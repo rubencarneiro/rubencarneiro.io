@@ -53,6 +53,7 @@ Screenshot 1         |  Screenshot 2
 - [X] RNDIS
 - [X] GPS
 - [X] MPT
+- [X] Fixed CPU governors, I/O schedulers 
   
   &nbsp;
 
@@ -68,3 +69,6 @@ Also follow my channel on youtube a give a like they are only a few videos but m
 # <center>Donate<center>
 <center><table border="0" cellpadding="10" cellspacing="0"
 align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="https://paypal.me/rubencarneiro?locale.x=pt_PT" title="PayPal" onclick="javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo" /></a></td></tr></tbody></table>
+
+<script src="https://liberapay.com/rubencarneiro/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/rubencarneiro/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
