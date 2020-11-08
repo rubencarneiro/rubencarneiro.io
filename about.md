@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Hammerhead](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.png?raw=true)
 
 <p>Hi, im from Portugal, love tech, love linux, love make diferents things, Born in 1985.</p>
 
