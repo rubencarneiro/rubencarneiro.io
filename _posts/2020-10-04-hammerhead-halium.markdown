@@ -57,11 +57,11 @@ Screenshot 1         |  Screenshot 2
   
   &nbsp;
 
-- You can find the project on my github:https://github.com/rubencarneiro/android_device_lge_hammerhead
+- You can find the project on my:<a href="https://github.com/rubencarneiro/android_device_lge_hammerhead">Github</a>
 
 # Releases for test
 
-- Here: https://github.com/rubencarneiro/android_device_lge_hammerhead/releases
+- Here: - <a href="https://github.com/rubencarneiro/android_device_lge_hammerhead/releases">Github</a>
 
 As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
 Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.
