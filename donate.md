@@ -2,7 +2,7 @@
 title: Donate
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Hammerhead](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.png?raw=true)
 
 <p>Donating keeps me motivated, also keep my work alive and runnnig there are many ways you can do it.</p>
 
