@@ -8,9 +8,8 @@ layout: page
 
 - Via Paypal by clicking on the logo below.
 - Via Liberapay  By clicking on the logo below
----
 
-- <p>Also if you want me to try porting a device, you can donate the device in question no strings attached you can find me on Twitter or Telegram or via email.</p>
+- <p>Also if you want me to try porting a device, you can donate the device in question no strings attached, i can't promisse nothing.You can find me on Twitter or Telegram or via email.</p>
 
 - <a href="https://twitter.com/rubenlcarneiro">Twitter</a>
 - <a href="https://t.me/rubencarneiro">Telegram</a>
