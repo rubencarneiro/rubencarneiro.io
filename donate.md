@@ -4,15 +4,16 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, im from Portugal, love tech, love linux, love make diferents things, Born in 1985.</p>
+<p>Donating keeps me motivated, also keep my work alive and runnnig there are many ways you can do it.</p>
 
-<p>Start using linux many years ago since then that my mane OS , i use Ubuntu for everything since porting, graphics, gaming etc</p>
+- Via Paypal by clicking on the logo below.
+- Via Liberapay  By clicking on the logo below
+---
+#
+- <p>Also if you want me to try porting a device, you can donate the device in question no strings attached you can find me on Twitter or Telegram or via email.</p>
+#
+- <a href="https://twitter.com/rubenlcarneiro">Twitter</a>
+- <a href="https://t.me/rubencarneiro">Telegram</a>
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>Android porting</li>
-	<li>And any that i need to learn to keep my mind focused</li>
-
-</ul>
 
