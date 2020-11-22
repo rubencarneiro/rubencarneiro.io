@@ -73,9 +73,9 @@ Xiaomi Redmi 4X        |  Xiaomi Mi A2
 :-------------------------:|:-------------------------:
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/redmi4x.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/redmi4x/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/mia2.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/mia2/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
-OnePlus One 2        |  Upcoming
+OnePlus One 2        |  F(x)tec Pro¹
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus2.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/oneplus2/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/comming.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/mia2/text?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus2.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/oneplus2/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/pro1.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/pro1/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
 
 Nexus 5
