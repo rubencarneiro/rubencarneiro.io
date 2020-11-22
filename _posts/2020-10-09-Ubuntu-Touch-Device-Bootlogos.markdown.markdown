@@ -75,7 +75,7 @@ Xiaomi Redmi 4X        |  Xiaomi Mi A2
 
 OnePlus One 2        |  F(x)tec Pro¹
 :-------------------------:|:-------------------------:
-![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus2.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/oneplus2/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/pro1.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/pro1/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
+![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus2.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/oneplus2/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Pro1.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/pro1/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
 
 Nexus 5
@@ -188,6 +188,14 @@ Xiaomi Redmi 4X
 - `fastboot flash splash splash.img`
 
 Xiaomi Mi A2
+=========
+**How to flash**
+
+- Reboot device to fastboot
+- In a terminal do:
+- `fastboot flash splash splash.img`
+
+F(x)tec Pro¹
 =========
 **How to flash**
 
