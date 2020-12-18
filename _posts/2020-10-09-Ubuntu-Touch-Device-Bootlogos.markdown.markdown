@@ -77,7 +77,7 @@ OnePlus One 2        |  F(x)tec Pro¹
 :-------------------------:|:-------------------------:
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/oneplus2.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/oneplus2/logo.bin?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/Pro1.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/pro1/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
-Redmi Note 7        |  Fairphone 3
+Redmi Note 7        |  Fairphone 3/3+
 :-------------------------:|:-------------------------:
 ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/redminote7.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/redminote7/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>  |  ![](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/bootlogos/fairphone3.png?raw=true)<a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/fairphone3/splash.img?raw=true" rel="some text">![Foo](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/download/download.png?raw=true)</a>
 
