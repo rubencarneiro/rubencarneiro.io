@@ -216,7 +216,7 @@ Redmi Note 7
 - In a terminal do:
 - `fastboot flash splash splash.img`
 
-Fairphone 3
+Fairphone 3/3+
 =========
 **How to flash**
 
