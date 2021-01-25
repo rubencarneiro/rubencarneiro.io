@@ -3,8 +3,8 @@ title: "Volla Phone Repair"
 layout: post
 date: 2021-01-25 21:21
 tag: Repair Volla Phone
-image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/brand/bootlogobrand.png?raw=true)
-headerImage: false
+image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true)
+headerImage: true
 projects: false
 blog: true
 hidden: false # don't count this post in blog pagination
