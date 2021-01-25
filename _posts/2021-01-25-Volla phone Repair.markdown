@@ -42,6 +42,7 @@ externalLink: false
 So how did i bricked my Volla?
 ---
 - Well it was very easy to brick i just commit a stupid error of flashing a custom rom made to GS290, is the same phone right?, Maybe not.
+Look this is my experience, and my experience only, you may have other methods this was how it happened to me and how i fixet.
 As i flashed i had to install a custom recovery TWRP for GS290 i Installed the rom and my device keeps rebooting everytime i tried to watch a Youtube video so i decided lets go back to Volla OS or Ubuntu Touch.
 Well things just gone wrong from there as tried to reflash my stock recovery for volla my phone went dead, not turning on. Damm i brick my phone let try lsusb in terminal " Bus 001 Device 058: ID 0e8d:0003 MediaTek Inc. MT6227 phone" that was wrong.
 So  at this time my phone is in Mediatek mode for flash or preloader.
@@ -68,5 +69,13 @@ Files that you need
 - call the scatter file inside te extracted folder "MT6763_Android_scatter.txt" and select firmware Update as the picture below.
 
 ![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/spflashtool.png?raw=true)
+
+- Press Download 
+
+- Connect your type-c cable if it dont detect as first time remove and reconnect the cable.
+
+- Wait until flash, once it finish now you can turn your device on and acess recovery and fastboot etc.
+
+- Go to fastboot and do the following command `fastboot flash unlock` this will unlock the boot loader and you be able to flash a custom or original recovery. I suggest you to use stock recovery.
 
 
