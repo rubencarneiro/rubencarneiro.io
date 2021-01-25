@@ -97,4 +97,4 @@ My phone is just a black screen do not turn on does nothing.
 - If You have no imeis after booting the phone just go to recovery and do a factory reset again, you will notice that nvdata will be wiped and your imeis will be back.
 
 
-- As Always please if you can donate. ;)
+# As Always please if you can donate. ;)
