@@ -8,7 +8,7 @@ headerImage: false
 projects: false
 blog: true
 hidden: false # don't count this post in blog pagination
-description: "How to revove a dead Volla Phone"
+description: "How to revive a dead Volla Phone"
 category: blog
 author: rubencarneiro
 externalLink: false
@@ -37,4 +37,36 @@ externalLink: false
  * Use at your Own Risk.
  *
  */</pre>
- 
+
+ ---
+So how did i bricked my Volla?
+---
+- Well it was very easy to brick i just commit a stupid error of flashing a custom rom made to GS290, is the same phone right?, Maybe not.
+As i flashed i had to install a custom recovery TWRP for GS290 i Installed the rom and my device keeps rebooting everytime i tried to watch a Youtube video so i decided lets go back to Volla OS or Ubuntu Touch.
+Well things just gone wrong from there as tried to reflash my stock recovery for volla my phone went dead, not turning on. Damm i brick my phone let try lsusb in terminal " Bus 001 Device 058: ID 0e8d:0003 MediaTek Inc. MT6227 phone" that was wrong.
+So  at this time my phone is in Mediatek mode for flash or preloader.
+My phone is just a black screen do not turn on does nothing.
+
+ ---
+How To fix it?
+---
+
+- Grab Spflashtool
+- <a href="https://spflashtool.com/download/SP_Flash_Tool-5.1916_Linux.zip">Linux</a>
+- <a href="https://spflashtool.com/download/SP_Flash_Tool_v5.1924_Win.zip">Windows</a>
+
+- When using linux cd spflashtool folder then
+- `chmod a+x flash_tool flash_tool.sh`
+- run as superuser
+
+ ---
+Files that you need
+---
+- <a href="https://volla.tech/filedump/ubuntu-touch-yggdrasil-ota15-flashtool.zip">Volla ubuntu Touch OTA-15 flashtool zip</a>
+
+- extract the file and open spflashtool as sudo
+- call the scatter file inside te extracted folder "MT6763_Android_scatter.txt" and select firmware Update as the picture below.
+
+![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/spflashtool.png?raw=true)
+
+
