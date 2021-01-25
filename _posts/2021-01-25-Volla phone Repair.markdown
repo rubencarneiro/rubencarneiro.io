@@ -15,7 +15,7 @@ externalLink: false
 ---
 
 <p align="center">
-<img src=https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true)
+<img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true" />
 </p>
 
 # Disclaimer
