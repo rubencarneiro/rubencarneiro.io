@@ -14,7 +14,9 @@ author: rubencarneiro
 externalLink: false
 ---
 
-![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true)
+<p align="center">
+<img src=https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true)
+</p>
 
 # Disclaimer
 <pre class="alt2 " dir="ltr" style="
