@@ -38,7 +38,7 @@ externalLink: false
  *
  */</pre>
 
- ---
+---
 So how did i bricked my Volla?
 ---
 - Well it was very easy to brick i just commit a stupid error of flashing a custom rom made to GS290, is the same phone right?, Maybe not.
@@ -48,7 +48,7 @@ Well things just gone wrong from there as tried to reflash my stock recovery for
 So  at this time my phone is in Mediatek mode for flash or preloader.
 My phone is just a black screen do not turn on does nothing.
 
- ---
+---
 How To fix it?
 ---
 
@@ -60,7 +60,7 @@ How To fix it?
 - `chmod a+x flash_tool flash_tool.sh`
 - run as superuser
 
- ---
+---
 Files that you need
 ---
 - <a href="https://volla.tech/filedump/ubuntu-touch-yggdrasil-ota15-flashtool.zip">Volla ubuntu Touch OTA-15 flashtool zip</a>
