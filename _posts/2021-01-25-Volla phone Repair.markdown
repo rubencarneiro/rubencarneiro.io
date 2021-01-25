@@ -7,7 +7,7 @@ image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/image
 headerImage: false
 projects: false
 blog: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "How to revove a dead Volla Phone"
 category: blog
 author: rubencarneiro
