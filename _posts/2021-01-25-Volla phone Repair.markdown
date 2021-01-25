@@ -76,6 +76,18 @@ Files that you need
 
 - Wait until flash, once it finish now you can turn your device on and acess recovery and fastboot etc.
 
-- Go to fastboot and do the following command `fastboot flash unlock` this will unlock the boot loader and you be able to flash a custom or original recovery. I suggest you to use stock recovery.
+- Go to fastboot and do the following command `fastboot flash unlock` this will unlock the boot loader and you be able to flash a custom or original recovery. I suggest you to use <a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/stock_recovery.img?raw=true">Stock Recovery</a>
 
+- Now will use fastboot again `fastboot flash recovery stock_recovery.img`
+
+- Now enter the recovery and wipe factory reset.
+- after that apply update trough adb using the file 
+<a href="https://ota.volla.tech/builds/volla-9.0-20201019-nightly-k63v2_64_bsp-signed.zip">Volla OS</a>
+
+- in terminal do `adb sideload volla-9.0-20201019-nightly-k63v2_64_bsp-signed.zip`
+
+- Wait until is finish and reboot.
+- after boot go to settings/ About the Phone / compilations build tap it until developer options are enable, go back to Developer options. and enable OEM Unlock
+
+- If You have no imeis after booting the phone just go to recovery and do a factory reset again, you will notice that nvdata will be wiped and your imeis will be back.
 
