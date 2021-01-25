@@ -38,9 +38,10 @@ externalLink: false
  *
  */</pre>
 
----
-So how did i bricked my Volla?
----
+&nbsp;
+
+# So how did i bricked my Volla?
+
 - Well it was very easy to brick i just commit a stupid error of flashing a custom rom made to GS290, is the same phone right?, Maybe not.
 Look this is my experience, and my experience only, you may have other methods this was how it happened to me and how i fixet.
 As i flashed i had to install a custom recovery TWRP for GS290 i Installed the rom and my device keeps rebooting everytime i tried to watch a Youtube video so i decided lets go back to Volla OS or Ubuntu Touch.
@@ -48,9 +49,10 @@ Well things just gone wrong from there as tried to reflash my stock recovery for
 So  at this time my phone is in Mediatek mode for flash or preloader.
 My phone is just a black screen do not turn on does nothing.
 
----
-How To fix it?
----
+&nbsp;
+# How To fix it?
+
+
 
 - Grab Spflashtool
 - <a href="https://spflashtool.com/download/SP_Flash_Tool-5.1916_Linux.zip">Linux</a>
