@@ -62,9 +62,10 @@ My phone is just a black screen do not turn on does nothing.
 - `chmod a+x flash_tool flash_tool.sh`
 - run as superuser
 
----
-Files that you need
----
+&nbsp;
+
+# Files that you need
+
 - <a href="https://volla.tech/filedump/ubuntu-touch-yggdrasil-ota15-flashtool.zip">Volla ubuntu Touch OTA-15 flashtool zip</a>
 
 - extract the file and open spflashtool as sudo
