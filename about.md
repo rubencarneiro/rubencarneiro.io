@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi, im from Portugal, love tech, love linux, love make diferents things, Born in 1985.</p>
 
-<p>Start using linux many years ago since then that my mane OS , i use Ubuntu for everything since porting, graphics, gaming etc</p>
+<p>Start using linux many years ago since then that my main OS , i use Ubuntu for everything since porting, graphics, gaming etc</p>
 
 <h2>Skills</h2>
 
