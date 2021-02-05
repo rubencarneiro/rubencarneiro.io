@@ -124,4 +124,10 @@ Now do the command:
 
 &nbsp;
 
+# Support
+
+- I really hope that this will help you to fix your Volla Phone.
+
+&nbsp;
+
 # As Always please if you can donate to my paypal. ;)
