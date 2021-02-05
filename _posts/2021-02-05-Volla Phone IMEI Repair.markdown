@@ -127,6 +127,7 @@ Now do the command:
 # Support
 
 - I really hope that this will help you to fix your Volla Phone.
+- I strongly encourage you to make a backup of your NVRAM parition Using SPflashtool and persist partition, so you can easy restore if anything happens to your device.
 
 &nbsp;
 
