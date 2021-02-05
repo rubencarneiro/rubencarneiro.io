@@ -81,7 +81,7 @@ My phone is just a black screen do not turn on does nothing.
 
 - Wait until flash, once it finish now you can turn your device on and acess recovery and fastboot etc.
 
-- Go to fastboot and do the following command `fastboot flash unlock` this will unlock the boot loader and you be able to flash a custom or original recovery. I suggest you to use <a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/stock_recovery.img?raw=true">Stock Recovery</a>
+- Go to fastboot and do the following command `fastboot flashing unlock` this will unlock the boot loader and you be able to flash a custom or original recovery. I suggest you to use <a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/stock_recovery.img?raw=true">Stock Recovery</a>
 
 - Now will use fastboot again `fastboot flash recovery stock_recovery.img`
 
