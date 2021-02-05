@@ -124,4 +124,4 @@ Now do the command:
 
 &nbsp;
 
-# As Always please if you can donate. ;)
+# As Always please if you can donate to my paypal. ;)
