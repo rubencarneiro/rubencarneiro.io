@@ -106,7 +106,7 @@ This commands where provide by Marc Aurel in Telegram official group <a href="ht
 - Now you can flash you Ubuntu touch firmware
 - <a href="https://volla.tech/filedump/ubuntu-touch-yggdrasil-ota15-flashtool.zip">Volla ubuntu Touch OTA-15 flashtool zip</a> Using spflash Tool
 
-If You Want to Install Volla OS firs unlock bootload with the command:
+If You Want to Install Volla OS first unlock bootload with the command:
 
 - `fastboot flashing unlock`
 - And flash stock recovery  <a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/stock_recovery.img?raw=true">Stock Recovery</a>
