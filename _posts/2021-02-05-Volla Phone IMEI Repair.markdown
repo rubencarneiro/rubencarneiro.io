@@ -121,6 +121,9 @@ Now do the command:
 
 -If All go right Your phone is back again with Imeis
 
+# Backup Partitions Using SPFlashTool
+<iframe width="1252" height="704" src="https://www.youtube.com/embed/9QMq4RADon8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 &nbsp;
 
