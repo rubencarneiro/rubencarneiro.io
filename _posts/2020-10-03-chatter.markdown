@@ -32,11 +32,8 @@ Screenshot 1         |  Screenshot 2
 - Thanks to all translators and developers
 - Source code avaible on : https://gitlab.com/rubencarneiro/chatter
 
-# <center>Donate<center>
-<center><table border="0" cellpadding="10" cellspacing="0"
-align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="https://paypal.me/rubencarneiro?locale.x=pt_PT" title="PayPal" onclick="javascript:window.open('https://paypal.me/rubencarneiro?locale.x=pt_PT','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo" /></a></td></tr></tbody></table>
-
 # <center>You Can also donate by Crypto<center>
+
 [![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)](https://en.cryptobadges.io/donate/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xbac735b0918290451adddfbf1d4391658380c950)](https://en.cryptobadges.io/donate/0xbac735b0918290451adddfbf1d4391658380c950)
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)](https://en.cryptobadges.io/donate/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)
