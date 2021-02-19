@@ -74,5 +74,6 @@ align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a
 <noscript><a href="https://liberapay.com/rubencarneiro/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 # <center>You Can aslo donate by Crypto<center>
+&nbsp;
 
- <a href="LdBPTusxmSoZ79x6oWd1864T6Q3afucay5" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/litecoin-ltc-logo.png?raw=true"></a>
+[![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)](https://en.cryptobadges.io/donate/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5) [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xbac735b0918290451adddfbf1d4391658380c950)](https://en.cryptobadges.io/donate/0xbac735b0918290451adddfbf1d4391658380c950) [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)](https://en.cryptobadges.io/donate/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)
