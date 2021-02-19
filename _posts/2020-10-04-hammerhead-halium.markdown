@@ -75,4 +75,4 @@ align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a
 
 # <center>You Can aslo donate by Crypto<center>
 
- <a href="LdBPTusxmSoZ79x6oWd1864T6Q3afucay5" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/litecoin-ltc-logo.png"><a>
+ <a href="LdBPTusxmSoZ79x6oWd1864T6Q3afucay5" src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/litecoin-ltc-logo.png?raw=true"></a>
