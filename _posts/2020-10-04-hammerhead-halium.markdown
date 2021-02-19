@@ -66,4 +66,8 @@ Screenshot 1         |  Screenshot 2
 As an independent porter i get no income for this, i do it for pleasure and for the community, it takes time,research and a lot of patience so if you can donate.
 Also follow my channel on youtube a give a like they are only a few videos but maybe i can make more in time.
 
+# <center> Donate by Crypto <center>
+
 [![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)](https://en.cryptobadges.io/donate/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xbac735b0918290451adddfbf1d4391658380c950)](https://en.cryptobadges.io/donate/0xbac735b0918290451adddfbf1d4391658380c950)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)](https://en.cryptobadges.io/donate/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)
