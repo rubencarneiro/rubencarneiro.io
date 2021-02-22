@@ -2,7 +2,7 @@
 title: Donate
 layout: page
 ---
-![Donate](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.png?raw=true)
+![Donate](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.gif?raw=true)
 
 <p>Donating keeps me motivated, also keep my work alive and runnnig there are many ways you can do it.</p>
 
