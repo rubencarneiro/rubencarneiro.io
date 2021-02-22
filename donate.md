@@ -3,7 +3,7 @@ title: Donate
 layout: page
 ---
 <p align="center">
-<img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.gif?raw=true)" alt="Donate Image"/>
+<img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.gif?raw=true" alt="Donate Image"/>
 </p>
 
 <p>Donating keeps me motivated, also keep my work alive and runnnig there are many ways you can do it.</p>
@@ -13,8 +13,9 @@ layout: page
 
 - <p>Also if you want me to try porting a device, you can donate the device in question no strings attached, i can't promisse nothing.You can find me on Twitter or Telegram or via email.</p>
 
-
-![Device](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/device.png?raw=true?)
+<p align="center">
+<img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/device.png?raw=true?" alt="Phone Image"/>
+</p>
 
 
 - <a href="https://twitter.com/rubenlcarneiro">Twitter</a>
