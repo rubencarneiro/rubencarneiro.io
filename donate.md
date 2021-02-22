@@ -6,7 +6,7 @@ layout: page
 <img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/donate/donate.gif?raw=true" alt="Donate Image"/>
 </p>
 
-# <p>Donating keeps me motivated, also keep my work alive and runnnig there are many ways you can do it.</p>
+# Donating keeps me motivated, also keep my work alive and runnnig there are many ways you can do it.
 
 <p>Please note that i as freelancer not endorced by any company, there for i depend on donation to keep my work alive.</p>
 
