@@ -15,7 +15,7 @@ externalLink: false
 ---
 
 <p align="center">
-<img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla2.png?raw=true" />
+<img src="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/x306f/x306f.png?raw=true" />
 </p>
 
 # Disclaimer
@@ -45,20 +45,7 @@ externalLink: false
 Lenovo Tab M10 HD (amar_row_wifi) specs
 ==========================================
 
-
-| Basic                   | Spec Sheet                                                                                                                     |
-| -----------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
-| CPU                     | Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)                                                                                                                      |
-| Chipset                 | Mediatek MT6762 Helio P22T (12 nm)                                                                                                            |
-| GPU                     | PowerVR GE8320610                                                                                                                   |
-| Memory                  | 4 GB RAM                                                                                                                     |
-| Shipped Android Version | Android 10                                                                                                                           |
-| Storage                 |64GB                                                                                                                  |
-| Battery                 | Li-Po 5000 mAh, non-removable battery                                                                                           |
-| Display                 | 800 x 1280 pixels, 16:10 ratio (~149 ppi density)                                                                            |
-| Camera (Back)(Main)     | 8 MP, AF                                                                                |
-| Camera (Front)          | 5 MP
-| Kernel Version          | 4.9.190 "Roaring Lionus"
+## Halium 11 based
 
 # Status
 
@@ -77,12 +64,12 @@ Lenovo Tab M10 HD (amar_row_wifi) specs
 - [X] Offline Charge
 - [X] Wifi
 - [X] SDCard
-- [X] Wireless display ( Broken )
+- [X] Wireless display ( Broken cannects and disconnects sometimes image will cast )
 - [X] Manual Brightness Works
 - [X] Hardware video playback
 - [X] Rotation
 - [X] Proximity sensor
-- [X] Virtualization (Still in the works)
+- [X] Virtualization
 - [X] GPU
 - [X] Lightsensor
 - [X] Proximity sensor
@@ -90,98 +77,27 @@ Lenovo Tab M10 HD (amar_row_wifi) specs
 - [X] Hotspot
 - [X] Airplane Mode
 
-&nbsp;
-# Get the files you need?
+## Install:
 
-- <a href="https://build.lolinet.com/file/lineage/GS290/lineage-17.1-20210109-EXPERIMENTAL-GS290.zip">Lineage os 17.1 for GS290</a> As i said this was part of the problem but also was the solution so thanks to Erfan Abdi on telegram roup.
-- <a href="https://build.lolinet.com/file/twrp/GS290/android-9.0/twrp-3.5.0-21-GS290.img">GS290 TWRP for Android 9.0 based</a> - You need to flash this one since your Volla Is based on android 9.0
-- <a href="https://drive.google.com/file/d/129SBT1Vy5DzQAa-oJp_5g9vuP_IJtG-q/view?usp=sharing">GS290 Stock Rom Android 10 Based</a> Thanks to El Hundo in Telegram.
+- Download The latest devel-flashable-focal image from latest CI builds
+https://gitlab.com/uports/h10/lenovo-m10-hd/lenovo-m10-hd/-/pipelines
 
-- <a href="https://build.lolinet.com/file/twrp/GS290/android-10.0/twrp-3.5.0-35-GS290.img">GS290 TWRP for Android 10 based</a> - You will flash this after flashing stock rom.
+- Flash the Ubuntu boot.img:
+``fastboot flash boot ./boot.img ``
 
-- <a href="https://spflashtool.com/download/SP_Flash_Tool-5.1916_Linux.zip">SPFLASHTOOL</a>
+- Download [vbmeta.img](https://github.com/rubencarneiro/amar_row_wifi/releases/download/1.0/vbmeta.img)
+``fastboot --disable-verification flash vbmeta ./vbmeta.img ``
+- Reboot to fastboot
+``fastboot reboot fastboot``
+- Format userdata
+``fastboot format:ext4 userdata``
+- Delete product logical partition
+``fastboot delete-logical-partition product``
+- Resise system partition
+``fastboot resize-logical-partition system 3978565472``
+- Flash Ubuntu Rootfs:
+`` fastboot flash system ./ubuntu.img``
 
-
-&nbsp;
-
-# How To
-
-- First flash the GS290 TWRP Android 9.0 based `fastboot flash recovery twrp-3.5.0-21-GS290.img`
-
-- Now reboot to recovery and wipe all and reboot to recovery again and copy inside the .
-- Now we will install Lineage OS 17.1 lineage-17.1-20210109-EXPERIMENTAL-GS290.zip
-
-- After install reboot the system, go settings about and enable developer mode, go developer mode and enable advanced reboot or restart. now push power button and select reboot to bootloader.
-
-- No flash GS290 TWRP Android 10 based `fastboot flash recovery twrp-3.5.0-35-GS290.img`
-
-- Reboot again to recovery. Now on your computer do `adb shell`
-- And the following commands:
-
-- `mkdir /mnt/vendor/nvdata`
-
-- `mount /dev/block/by-name/nvdata /mnt/vendor/nvdata`
-
-- `restorecon -R /mnt/vendor/nvdata/ -v`
-
-- `umount /mnt/vendor/nvdata && sync && reboot`
-
-This commands where provide by Marc Aurel in Telegram official group <a href="https://t.me/hello_volla">Volla Group</a>
-
-- Now extract the GS290 Stock Rom Android 10 Based and copy to your device the system.img vendor.img boot.img
-
-- On TWRP go to Install and select Images and then select system.img and restore to system, boot.img to boot and vendor.img to vendor after install wipe factory reset and restart the phone.
-
-- For some reason the phone will have FRP google Account to remove use the scatter inside the stock rom zip with spflash tools.
-
-- Go to Format/ Manual Format and enter the Begin Address: 0x3888000 and the Format Lenght : 0x100000
-
-![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/spflashtool2.png?raw=true)
-
-- Turn the Phone down Click on Start in spflashtool and connect the cable to the phone once OK appers disconnect the cable and boot the phone, the google account was now removed, after initil setep you will notice that will ask you to enter a code + Fingerprint yes fingerprint is working,
-
-- After Initial setup go to about the the phone and confirm that you now have the IMEIS.
-
-# Whats next?
-
-- Now you can flash you Ubuntu touch firmware
-- <a href="https://volla.tech/filedump/ubuntu-touch-yggdrasil-ota15-flashtool.zip">Volla ubuntu Touch OTA-15 flashtool zip</a> Using spflash Tool
-
-If You Want to Install Volla OS first unlock bootloader with the command:
-
-- `fastboot flashing unlock`
-- And flash stock recovery  <a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/stock_recovery.img?raw=true">Stock Recovery</a>
-
-- Reboot to recovert select apply update trought adb
-
-- Download Volla OS Firmware <a href="https://ota.volla.tech/builds/volla-9.0-20201019-nightly-k63v2_64_bsp-signed.zip">Volla OS</a>
-
-Now do the command:
-- `adb sideload volla-9.0-20201019-nightly-k63v2_64_bsp-signed.zip`
-- After do Factory reset and reboot the device.
-
--If All go right Your phone is back again with Imeis
-
-# Backup Partitions Using SPFlashTool
-<iframe width="1252" height="704" src="https://www.youtube.com/embed/9QMq4RADon8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-&nbsp;
-
-# Support
-
-- I really hope that this will help you to fix your Volla Phone.
-- I strongly encourage you to make a backup of your NVRAM parition Using SPflashtool and persist partition, so you can easy restore if anything happens to your device.
-
-&nbsp;
-
-# As Always please if you can donate to my paypal. ;)
-
-# <center>You Can also donate by Crypto<center>
-&nbsp;
-
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)](https://en.cryptobadges.io/donate/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xbac735b0918290451adddfbf1d4391658380c950)](https://en.cryptobadges.io/donate/0xbac735b0918290451adddfbf1d4391658380c950)
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)](https://en.cryptobadges.io/donate/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)
+## <center>As Always please if you can donate to my paypal. ;)</center>
 
 
