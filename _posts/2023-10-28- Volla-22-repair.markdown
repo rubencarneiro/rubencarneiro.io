@@ -42,19 +42,7 @@ externalLink: false
 
 &nbsp;
 
-# So how did i bricked my Volla?
-
-- Well it was very easy to brick i just commit a stupid error of flashing a custom rom made to GS290, is the same phone right?, Maybe not.
-Look this is my experience, and my experience only, you may have other methods this was how it happened to me and how i fixet.
-As i flashed i had to install a custom recovery TWRP for GS290 i Installed the rom and my device keeps rebooting everytime i tried to watch a Youtube video so i decided lets go back to Volla OS or Ubuntu Touch.
-Well things just gone wrong from there as tried to reflash my stock recovery for volla my phone went dead, not turning on. Damm i brick my phone let try lsusb in terminal " Bus 001 Device 058: ID 0e8d:0003 MediaTek Inc. MT6227 phone" that was wrong.
-So  at this time my phone is in Mediatek mode for flash or preloader.
-My phone is just a black screen do not turn on does nothing.
-
-&nbsp;
-# How To fix it?
-
-
+# Necessary steps
 
 - Grab Spflashtool
 - <a href="https://spflashtool.com/download/SP_Flash_Tool-5.1916_Linux.zip">Linux</a>
@@ -68,10 +56,10 @@ My phone is just a black screen do not turn on does nothing.
 
 # Files that you need
 
-- <a href="https://volla.tech/filedump/ubuntu-touch-yggdrasil-ota15-flashtool.zip">Volla ubuntu Touch OTA-15 flashtool zip</a>
+- <a href="https://volla.tech/filedump/vollaos/volla-11.1-20221017-stable-SPFLASH-mimameid.zip">Volla 22 stock firmware</a>
 
 - extract the file and open spflashtool as sudo
-- call the scatter file inside te extracted folder "MT6763_Android_scatter.txt" and select firmware Update as the picture below.
+- call the scatter file inside te extracted folder "MT6768_Android_scatter.txt" and select firmware Update as the picture below.
 
 ![Screenshot](https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/spflashtool.png?raw=true)
 
@@ -79,29 +67,7 @@ My phone is just a black screen do not turn on does nothing.
 
 - Connect your type-c cable if it dont detect as first time remove and reconnect the cable.
 
-- Wait until flash, once it finish now you can turn your device on and acess recovery and fastboot etc.
-
-- Go to fastboot and do the following command `fastboot flashing unlock` this will unlock the boot loader and you be able to flash a custom or original recovery. I suggest you to use <a href="https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/downloads/volla/stock_recovery.img?raw=true">Stock Recovery</a>
-
-- Now will use fastboot again `fastboot flash recovery stock_recovery.img`
-
-- Now enter the recovery and wipe factory reset.
-- after that apply update trough adb using the file 
-<a href="https://ota.volla.tech/builds/volla-9.0-20201019-nightly-k63v2_64_bsp-signed.zip">Volla OS</a>
-
-- in terminal do `adb sideload volla-9.0-20201019-nightly-k63v2_64_bsp-signed.zip`
-
-- Wait until is finish and reboot.
-- after boot go to settings/ About the Phone / compilations build tap it until developer options are enable, go back to Developer options. and enable OEM Unlock
-
-- If You have no imeis after booting the phone just go to recovery and do a factory reset again, you will notice that nvdata will be wiped and your imeis will be back.
+- Wait until flash, once it finish now you can turn your device on and you should be booting to stock Android 11 Volla OS.
 
 
-# As Always please if you can donate. ;)
-
-# <center>You Can also donate by Crypto<center>
-&nbsp;
-
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)](https://en.cryptobadges.io/donate/LdBPTusxmSoZ79x6oWd1864T6Q3afucay5)
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xbac735b0918290451adddfbf1d4391658380c950)](https://en.cryptobadges.io/donate/0xbac735b0918290451adddfbf1d4391658380c950)
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)](https://en.cryptobadges.io/donate/3Ef6fEm6fwcXHzuHQP3dHYeUF1Ftoveuwp)
+### <center> As Always please if you can donate. ;)<center>

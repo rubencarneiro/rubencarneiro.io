@@ -5,11 +5,11 @@ date: 2023-10-07 19:49
 tag: Lenovo M10 HD Port
 image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/x306f/x306f.png?raw=true)
 headerImage: false
-projects: false
+projects: true
 blog: true
 hidden: false # don't count this post in blog pagination
 description: "Status of port"
-category: blog
+category: project
 author: rubencarneiro
 externalLink: false
 ---
