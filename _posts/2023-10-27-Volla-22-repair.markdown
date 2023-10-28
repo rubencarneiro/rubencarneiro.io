@@ -3,7 +3,7 @@ title: "Volla 22 Phone Repair"
 layout: post
 date: 2023-10-27 22:21
 tag: Repair Volla 22 Phone
-image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true)
+image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla22/Volla-22_Black.png?raw=true)
 headerImage: false
 projects: false
 blog: true
