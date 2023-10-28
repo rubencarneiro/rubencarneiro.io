@@ -1,7 +1,7 @@
 ---
 title: "Volla 22 Phone Repair"
 layout: post
-date: 2023-10-28 22:21
+date: 2023-10-27 22:21
 tag: Repair Volla 22 Phone
 image: (https://github.com/rubencarneiro/rubencarneiro.io/blob/main/assets/images/devices/volla/volla.png?raw=true)
 headerImage: false
